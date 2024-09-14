@@ -1,0 +1,13 @@
+We will be reusing the Flatmates Bills App created in a previous project.
+This Web App will have 1 additional class, one for each web page HomePage, BillFormPage, ResultsPage and a BillForm class to generate the bill form.
+
+HomePage:
+
+
+BillFormPage:
+
+
+ResultsPage:
+
+
+BillForm:
